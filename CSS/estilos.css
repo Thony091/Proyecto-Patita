@@ -1,0 +1,31 @@
+p{
+    margin: 1px 80px;
+}
+div.cabecero{
+    text-align: justify;
+    margin: 100px 70px 0 70px;
+    
+}
+div.gatosOperros{
+    margin: 0 80px;
+}
+div.eleccionMascota{
+    margin: 0 90px;
+}
+div.ficha{
+    display: inline-block;
+}
+h1,h2{
+    text-align: center;
+}
+p{
+    margin: 0 ;
+}
+ul{
+    margin: 0 80px;
+}
+
+
+img{
+    border: 1px solid black;
+}
