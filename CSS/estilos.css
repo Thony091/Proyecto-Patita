@@ -22,10 +22,14 @@ h1,h2{
 p{
     margin: 0 ;
 }
-ul{
+.lista li{
+    display: block;
     background-color: antiquewhite;
-    margin: 0 80px;
-    border: 3px solid black;
+    margin: 7px 60px;
+    padding: 10px;
+    border: 2px solid rgba(240, 39, 65, 0.295);
+    border-radius: 8px;
+    
 }
 
 
