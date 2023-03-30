@@ -1,14 +1,39 @@
+body{
+    background-color: rgb(252, 250, 247);
+
+}
+
+div.cabecero{
+    text-align: justify;
+    margin: 100px 70px 0 70px;    
+}
 p{
     margin: 1px 80px;
 }
-div.cabecero{
-    text-align: justify;
-    margin: 100px 70px 0 70px;
-    
+
+.lista li{
+    display: block;
+    background-color: antiquewhite;
+    margin: 10px 60px;
+    padding: 10px;
+    border: 2px solid rgba(240, 39, 65, 0.295);
+    border-radius: 8px; 
 }
+
 div.gatosOperros{
-    margin: 0 80px;
+    margin: 0 150px;    
 }
+div img.imagenPresentacion{
+    height: 250px;
+}
+div img.imagenPresentacion2{
+    height: 227px;
+}
+div a.presentacion{
+    font-size: 40px;
+    margin: 50px 50px;
+}
+
 div.eleccionMascota{
     margin: 0 90px;
 }
@@ -21,15 +46,6 @@ h1,h2{
 }
 p{
     margin: 0 ;
-}
-.lista li{
-    display: block;
-    background-color: antiquewhite;
-    margin: 7px 60px;
-    padding: 10px;
-    border: 2px solid rgba(240, 39, 65, 0.295);
-    border-radius: 8px;
-    
 }
 
 
